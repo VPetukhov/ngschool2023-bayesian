@@ -41,6 +41,11 @@ ipycanvas>=0.9.1
 # Python: ipyleaflet library for Jupyter notebooks (optional)
 ipyleaflet
 
-# Python: plotting libraries (optional)
-plotly>=5,<6
-bqplot
+# Data science
+matplotlib>=3.4.2,<4
+pandas>=2.0.0,<3
+numpy>=1.21.0,<2
+scipy>=1.7.0,<2
+scikit-learn>=1.0,<2
+statsmodels>=0.12.2,<1
+seaborn>=0.11.1,<1
